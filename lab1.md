@@ -6,3 +6,4 @@ just to figure out what the original question meant.
 A lot of problems you can figure out on your own if you have enough time, and you want to avoid a situation where your question
 is urgent and you make mistakes in your question like using "help me" and grovelling, which were advised against in the article.
 This seemed to happen a lot during Data Structures.
+![screenshot](screenshot-area-2017-01-20-134522.png)
