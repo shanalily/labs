@@ -6,4 +6,10 @@ just to figure out what the original question meant.
 A lot of problems you can figure out on your own if you have enough time, and you want to avoid a situation where your question
 is urgent and you make mistakes in your question like using "help me" and grovelling, which were advised against in the article.
 This seemed to happen a lot during Data Structures.
+
+<br><br>Please read chapter 3 of Free Culture http://www.free-culture.cc/freeculture.pdf
+<br>-Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
+Reading the chapter about the RPI student and reading some other parts of Free Culture made me feel like US laws along with precedents set by the supreme court too heavily favor patents and copyright laws. This means that large corporations can take advantage of this
+
+<br><br>Install tree and get the directory structure.
 ![screenshot](screenshot-area-2017-01-20-134522.png)
