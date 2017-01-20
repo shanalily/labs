@@ -8,6 +8,7 @@ is urgent and you make mistakes in your question like using "help me" and grovel
 This seemed to happen a lot during Data Structures.
 
 <br><br>Please read the 10 criteria of Open Source Definition http://opensource.org/osd and understand why they are important.
+<br>I read the 10 criteria and appreciate them more because of reading some of The Cathedral and the Bazaar. Being able to have any person work on a project, because they are interested in that project, sounds like a wonderful way of getting work done.
 
 <br><br>Please read chapter 3 of Free Culture http://www.free-culture.cc/freeculture.pdf
 <br>-Write a short paragraph ( 8 to 10 sentences) of what you got out of reading that chapter.
