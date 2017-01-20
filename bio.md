@@ -6,4 +6,4 @@
 
 **github: shanalily**
 
-![malfas](http://rpiaoe.com/images/sisters/shoshana.jpg)
+![malfas](profile_pic.jpg)
