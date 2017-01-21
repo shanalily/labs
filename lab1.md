@@ -20,3 +20,6 @@ This seemed to happen a lot during Data Structures.
 <br>Please do all the practice problems given here (moving over Interactive Tutorial in the top right corner will get this).
 <br>I did all 13 lessons.
 ![regex](screenshot-area-2017-01-20-193454.png)
+
+<br>Do all the problems and at least four problems on beginner level here.
+![more regex](screenshot-area-2017-01-20-200605.png)
