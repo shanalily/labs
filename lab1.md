@@ -16,3 +16,7 @@ This seemed to happen a lot during Data Structures.
 
 <br><br>Install tree and get the directory structure.
 ![screenshot](screenshot-area-2017-01-20-134522.png)
+
+<br>Please do all the practice problems given here (moving over Interactive Tutorial in the top right corner will get this).
+<br>I did all 13 lessons.
+![regex](screenshot-area-2017-01-20-193454.png)
