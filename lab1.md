@@ -29,3 +29,4 @@ This seemed to happen a lot during Data Structures.
 <br>I used Snap! to make a little ufo game.
 
 <br><br>Reflection
+<br>Since I am a beginner at getting involved in open source projects, I looked at the GitHub showcase for titled "Great for new contributors". Atom was one of those recommendations, and unlike some projects it has lots of issues so I should be able to find one that I work on. I use sublime as a text editor so I would want to use atom for a bit first.
