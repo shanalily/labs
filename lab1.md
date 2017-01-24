@@ -29,9 +29,8 @@ This seemed to happen a lot during Data Structures.
 
 <br><br>Create some thing using either of the first two or solve this using blockly
 <br>&nbsp;&nbsp;&nbsp;&nbsp;I used Snap! to make a little ufo game.
-
 <br>
-There's a ufo and you have to hover over the person to take them as hostage. You can move the ufo with the up, down, right, and left keys.
+There's a ufo and you have to hover over the person to take them as hostage. You can move the ufo with the up, down, right, and left keys.<br>
 ![game1](screenshot-area-2017-01-23-184611.png)
 ![game2](screenshot-area-2017-01-23-184707.png)
 
