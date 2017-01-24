@@ -28,5 +28,9 @@ This seemed to happen a lot during Data Structures.
 <br><br>Create some thing using either of the first two or solve this using blockly
 <br>I used Snap! to make a little ufo game.
 
+<br></br>
+I made a game using Snap where there's a ufo and you have to hover over the person to take them as hostage. You can move the ufo with the up, down, right, and left keys.
+![game1](screenshot-area-2017-01-23-184611.png)
+
 <br><br>Reflection
 <br>Since I am a beginner at getting involved in open source projects, I looked at the GitHub showcase for titled "Great for new contributors". Atom was one of those recommendations, and unlike some projects it has lots of issues so I should be able to find one that I work on. I use sublime as a text editor so I would want to familiarize myself with atom first.
