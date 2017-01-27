@@ -1,6 +1,10 @@
 **Why it is important to choose a LICENSE?**
 
-**Why they SHOULDN'T use a project that doesn't have an explicit license**
+The license determines what other people can do with your software, so you should determine what freedoms people have with that software. For instance, if you believe it is morally unjust for people to not follow the four criteria of Free Software, you can have a free software license so that anyone can view and change the source code and distribute it with other users. If you want to copyright your work because you don't want other people to be do have the complete freedom to improve your work, you'll have to specify that with a license.
+
+**Why is it important that you SHOULDN'T use a project that doesn't have an explicit license**
+
+When a project is licensed as open source or something similar, you are being given permission in advance to change it and improve it. If the project is not licensed, you do not know what the creator's original intentions were for the use and distribution were of the project. You have not been given permission to touch their code and therefore you should not touch it.
 
 **Do you agree with the claim in the Failure to follow the Open System Model Section of Why the Web beat Gopher?**
 
