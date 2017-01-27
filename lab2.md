@@ -35,5 +35,5 @@ I made a repository with a GPL v3 license.
 | http://git.polaritech.com/Solum/Solum | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
 | http://www.weirdtube.wtf/ | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
 | https://github.com/samuelyuan/AtomForum | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
-|
-|
+| https://github.com/hotshot2162/EMPACplus | Yes | Apache License, Version 2.0 https://www.apache.org/licenses/LICENSE-2.0 |
+| https://github.com/olivierpo/minebot | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
