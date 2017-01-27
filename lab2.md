@@ -20,6 +20,8 @@ Our example project is an application or webpage where you can copy and paste a 
 
 **Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good.**
 
+A company would want to use an Apache license because it prevents random people from using the company's trademark. Therefore, the company can still work on their brand and have some claim to the work. Also, companies who modify the software do not have to share the source code, which private companies may find desirable. An LGPL would be good for a developer because they can use use libraries with an LGPL in their projects without having to release the source code. This means the developer can use integrate LGPL licensed software into applications that do not have to be distributed under GPL. A GPL would be best for the common good because all modifications and sofware including GPL-licensed code must be redistributed under GPL. This means that everyone has to share source code, installation information, among other requirements. This best fits the model of free software, which is considered the most ethical way to distribute software by many people.
+
 **Create a repository and choose a license.**
 
 **Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.**
