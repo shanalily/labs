@@ -12,7 +12,11 @@ I agree with the claim that when Gopher did not embrace the open source model an
 
 **Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).**
 
+Android uses the Apache license 2.0, which is a non-copyleft permissive license, and the base operating system is open-source. Android users can modify the source code, which is desirable since people use their phones all of the time and have the incentive. This gives Android a competitive edge against Apple, which is more restrictive. Some people are critical of Android since non-free software can be necessary for a properly running Android device. Android also uses the Linux kernel, though it is a separate program because the Apache license and GPL v2 are incompatible.
+
 **Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.**
+
+Our example project is an application or webpage where you can copy and paste a photo of a color or a pattern, and it comes up with colors and patterns that go with the image you picked. We wanted other people to be able improve it and share their improvements so that users of this program feel like the it picks good results and so that users feel like they have a good number of options to specify what kind of color scheme they are looking for. Therefore, we picked the GNU General Public License v3.0. Anyone will be able to modify and distribute the program as long as they follow certain rules, like making the source code available.
 
 **Read these licenses GPL, LGPL and Apache/BSD and discuss which one will be better - for a developer, for a company and for the common good.**
 
