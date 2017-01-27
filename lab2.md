@@ -29,3 +29,11 @@ I made a repository with a GPL v3 license.
 **Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.**
 
 **Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license.**
+
+| Website | License Present | License |
+|---------|:---------------:|--------:|
+| http://git.polaritech.com/Solum/Solum | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
+| http://www.weirdtube.wtf/ | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
+| https://github.com/samuelyuan/AtomForum | Yes | MIT License https://en.wikipedia.org/wiki/MIT_License |
+|
+|
