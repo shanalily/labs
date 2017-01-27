@@ -24,6 +24,8 @@ A company would want to use an Apache license because it prevents random people 
 
 **Create a repository and choose a license.**
 
+I made a repository with a GPL v3 license.
+
 **Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.**
 
 **Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license.**
