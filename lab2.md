@@ -8,6 +8,8 @@ When a project is licensed as open source or something similar, you are being gi
 
 **Do you agree with the claim in the Failure to follow the Open System Model Section of Why the Web beat Gopher?**
 
+I agree with the claim that when Gopher did not embrace the open source model and pushed away developers, this prevented the advancement that was talked about by Raymond in the Cathedral and the Bazaar. The users of software have an incentive to improve it, and Gopher did not allow that, which allowed the Web to advance and become a better option for users than Gopher.
+
 **Android uses the Apache license 2.0 and it's kernel uses GPL v2, Linux uses tge GPL v2 license, Microsoft .NET Core uses MIT license, SailfishOS is not open source. Can you justify why such a license is chosen (Justification for ONE is enough).**
 
 **Think of an example project. Pick a license (as a group) using the LICENSE chooser by Github.**
