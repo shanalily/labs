@@ -29,6 +29,9 @@ I made a repository with a GPL v3 license.
 
 **Write five sentences about choosing a project to work in this course and who will be users/customers and what license will you choose.**
 
+One idea I had was to make a website or app where you can look up any topic you want to learn about and it will tell you all of the free resources you can use to learn that topic. This includes youtube tutorial channels, websites like khan academy that have lessons, and particularly useful blog posts, or even books (which people can usually get out of library. Users of this application would be people who need or want to learn a skill on their own and don't know where the best place to learn something is. Users would be able to make entries and rate different resources. I thought of this because I often have trouble figuring out where I want to go to learn a programming language and have to try numerous resources before I find one that I like.
+I would use an MIT License because I'm fine with other people modifying and redistributing my code, but I'm also fine if people do not disclose the modified source code.
+
 **Take 5 projects from Observatory or past RCOS Projects - create a table which project has which license.**
 
 | Website | License Present | License |
