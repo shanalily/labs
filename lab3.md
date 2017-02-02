@@ -5,6 +5,7 @@
 ![gitk](Screenshot-from-2017-02-01-17-42-21.png)
 
 **screenshot of Learn Git Branching**
+![branching](Screenshot-from-2017-02-01-18-52-12.png)
 
 **link to courseproject repository**
 
