@@ -8,7 +8,7 @@
 ![branching](Screenshot-from-2017-02-01-18-52-12.png)
 
 **link to courseproject repository**<br>
-[courseproject](https://github.com/shanalily/courseproject/blob/master/References.md)
+[courseproject](https://github.com/shanalily/courseproject)
 
 **link to table repository**<br>
 [Table 8 repository](https://github.com/shanalily/Story-Spring2017)
