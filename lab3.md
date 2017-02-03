@@ -10,4 +10,5 @@
 **link to courseproject repository**<br>
 [courseproject](https://github.com/shanalily/courseproject/blob/master/References.md)
 
-**link to table repository**
+**link to table repository**<br>
+[Table 8 repository](https://github.com/shanalily/Story-Spring2017)
