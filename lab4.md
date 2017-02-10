@@ -11,4 +11,4 @@
 ![step 4](screenshot-area-2017-02-10-143250.png)
 
 **Step 5**<br>
-![step 5]()
+![step 5](screenshot-area-2017-02-10-151657.png)
