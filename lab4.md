@@ -5,7 +5,10 @@
 ![step 2](screenshot-area-2017-02-10-122821.png)
 
 **Step 3**<br>
+![step 3](screenshot-area-2017-02-10-141719.png)
 
 **Step 4**<br>
+![step 4]()
 
 **Step 5**<br>
+![step 5]()
