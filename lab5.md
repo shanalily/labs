@@ -57,8 +57,10 @@ The leader of [Module Game Engine](https://www.youtube.com/watch?v=pQQPvW7VscE&t
 The leader of [MoleAI](https://www.youtube.com/watch?v=BO49mvTS_7w) is Mole.<br>
 The leader of [Myo-Intelligence](https://www.youtube.com/watch?v=nQbPjY_pXxA) is Jordan Horwich.<br>
 
+The image below is a screenshot from the Module Game Engine video. This project had more activity than others and actually had multiple contributors, so the images from the video are much more exciting.
 ![module](screenshot-area-2017-02-17-133723.png)
-![moleai]()
+The image below is from MoleAI, which clearly had a lot of activity in one specific directory.
+![moleai](screenshot-area-2017-02-17-133920.png)
 
 
 **Part 2 - Unit Testing**<br>
