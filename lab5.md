@@ -34,10 +34,10 @@ MoleAI
 * branches - master
 
 Myo-Intelligesture
-* contributors
-* total lines of code
-* first commit
-* latest commit
+* 1 contributor
+* 2442 total lines of code
+* first commit - Initial commit, Oct 31, 2014
+* latest commit - Make most private class variables const, April 5, 2015
 * branches - master
 
 **Part 2 - Unit Testing**<br>
