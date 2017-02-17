@@ -54,6 +54,8 @@ The number of lines of code seems to usually be different in gitstats than the n
 The leader of [minebot](https://www.youtube.com/watch?v=da8hRBlbe4A) is clearly Olivier Poulin.<br>
 The leader of [MineBot-v2](https://www.youtube.com/watch?v=bVvWO6Gjk30) is Michael K. Duncan.<br>
 The leader of [Module Game Engine](https://www.youtube.com/watch?v=pQQPvW7VscE&t=3s) is Aaron Perl. He started the project and most consistently worked on it.<br>
+The leader of [MoleAI](https://www.youtube.com/watch?v=BO49mvTS_7w) is Mole.<br>
+The leader of [Myo-Intelligence](https://www.youtube.com/watch?v=nQbPjY_pXxA) is Jordan Horwich.<br>
 
 
 **Part 2 - Unit Testing**<br>
