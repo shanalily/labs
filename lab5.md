@@ -50,6 +50,8 @@ Myo-Intelligesture
 
 The number of lines of code seems to usually be different in gitstats than the number of lines from the command line. One of the projects has 2 contributors in gitstats, but only one on the GitHub.
 
+3.<br>
+
 
 **Part 2 - Unit Testing**<br>
 [markdown.py](https://github.com/shanalily/markdown.py/blob/master/markdown.py)<br>
