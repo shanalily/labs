@@ -12,7 +12,12 @@ minebot
 * latest commit - comm, May 6, 2016
 * branches - master
 
-M
+MineBot-v2
+* 1 contributor
+* 963 total lines of code
+* first commit - Initial commit, Oct 27, 2016
+* latest commit - Update README.md, Dec 5, 2016
+* branches - master
 
 **Part 2 - Unit Testing**<br>
 [markdown.py](https://github.com/shanalily/markdown.py/blob/master/markdown.py)<br>
