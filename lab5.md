@@ -29,8 +29,8 @@ Module Game Engine
 MoleAI
 * 1 contributor
 * 8756296 total lines of code
-* first commit
-* latest commit
+* first commit- Added Building class, Nov 8, 2016
+* latest commit - Tweaks, fixes, and functionality enhancement, Dec 18, 2016
 * branches - master
 
 Myo-Intelligesture
