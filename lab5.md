@@ -27,8 +27,8 @@ Module Game Engine
 * branches - dev, netcode, graphics testing, gh-pages, stable
 
 MoleAI
-* contributors
-* total lines of code
+* 1 contributor
+* 8756296 total lines of code
 * first commit
 * latest commit
 * branches - master
