@@ -19,6 +19,27 @@ MineBot-v2
 * latest commit - Update README.md, Dec 5, 2016
 * branches - master
 
+Module Game Engine
+* 3 contributors
+* 870871 total lines of code
+* first commit - initial commit, Dec 31, 2014
+* latest commit - Merge branch 'dev' of github.com:AaronPerl/Module into dev, July 11, 2016
+* branches - dev, netcode, graphics testing, gh-pages, stable
+
+MoleAI
+* contributors
+* total lines of code
+* first commit
+* latest commit
+* branches - master
+
+Myo-Intelligesture
+* contributors
+* total lines of code
+* first commit
+* latest commit
+* branches - master
+
 **Part 2 - Unit Testing**<br>
 [markdown.py](https://github.com/shanalily/markdown.py/blob/master/markdown.py)<br>
 [test_markdown_unittest.py](https://github.com/shanalily/markdown.py/blob/master/test_markdown_unittest.py)
