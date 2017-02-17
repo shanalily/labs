@@ -4,7 +4,15 @@
 3<br>
 ![latex matrix](screenshot-area-2017-02-15-224442.png)
 
-**Part 1 - Community**
+**Part 1 - Community**<br>
+minebot
+* 1 contributor
+* 600 total lines of code
+* first commit - Initial commit, April 15, 2016
+* latest commit - comm, May 6, 2016
+* branches - master
+
+M
 
 **Part 2 - Unit Testing**<br>
 [markdown.py](https://github.com/shanalily/markdown.py/blob/master/markdown.py)<br>
