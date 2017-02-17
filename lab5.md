@@ -51,6 +51,9 @@ Myo-Intelligesture
 The number of lines of code seems to usually be different in gitstats than the number of lines from the command line. One of the projects has 2 contributors in gitstats, but only one on the GitHub.
 
 3.<br>
+The leader of [minebot](https://www.youtube.com/watch?v=da8hRBlbe4A) is clearly Olivier Poulin.<br>
+The leader of [MineBot-v2](https://www.youtube.com/watch?v=bVvWO6Gjk30) is Michael K. Duncan.<br>
+The leader of [Module Game Engine](https://www.youtube.com/watch?v=pQQPvW7VscE&t=3s) is Aaron Perl. He started the project and most consistently worked on it.<br>
 
 
 **Part 2 - Unit Testing**<br>
