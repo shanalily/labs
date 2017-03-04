@@ -59,4 +59,34 @@ love to hate<br>
 love<br>
 hove<br>
 have<br>
-hate<br>
+hate<br><br>
+Implement a variation where we consider two words (nodes) are adjacent if the number of letters that differ (not necessarily in same position) by 1.<br><br>
+Five letter words<br><br>
+chaos to order<br>
+chaos<br>
+chose<br>
+chore<br>
+horde<br>
+order<br><br>
+nodes to graph<br>
+nodes<br>
+noses<br>
+oases<br>
+gases<br>
+gasps<br>
+grasp<br>
+graph<br><br>
+moron to smart<br>
+moron<br>
+morns<br>
+morts<br>
+marts<br>
+smart<br><br>
+pound to marks<br>
+pound<br>
+ponds<br>
+prods<br>
+pards<br>
+parks<br>
+marks<br><br>
+Four letter words<br><br>
