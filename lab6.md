@@ -40,3 +40,14 @@ sears<br>
 stars<br>
 start<br>
 smart<br>
+
+cold
+cord
+word
+worm
+warm
+
+love
+hove
+have
+hate
