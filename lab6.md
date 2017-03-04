@@ -90,3 +90,15 @@ pards<br>
 parks<br>
 marks<br><br>
 Four letter words<br><br>
+cold to warm<br>
+cold<br>
+coal<br>
+carl<br>
+char<br>
+harm<br>
+warm<br><br>
+love to hate<br>
+love<br>
+hove<br>
+have<br>
+hate<br>
