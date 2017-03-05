@@ -102,6 +102,7 @@ love<br>
 hove<br>
 have<br>
 hate<br><br>
+Your task is to find words that precede SLID, DOTE, HERD and OMEN and the words that follow (immediately) NINE, SELL, STAT and WHAT.<br><br>
 words that precede and follow slid<br>
 said<br>
 slim<br>
