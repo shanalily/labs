@@ -101,4 +101,88 @@ love to hate<br>
 love<br>
 hove<br>
 have<br>
-hate<br>
+hate<br><br>
+words that precede and follow slid<br>
+said<br>
+slim<br>
+sled<br>
+slit<br>
+slip<br>
+skid<br><br>
+words that precede and follow dote<br>
+tote<br>
+dove<br>
+dope<br>
+doge<br>
+dome<br>
+dole<br>
+dose<br>
+note<br>
+vote<br>
+done<br>
+date<br>
+rote<br>
+doze<br><br>
+words that precede and follow herd<br>
+head<br>
+hero<br>
+herb<br>
+hera<br>
+hard<br>
+here<br>
+held<br>
+heed<br>
+herr<br>
+hurd<br><br>
+words that precede and follow omen<br>
+oman<br>
+oxen<br>
+open<br>
+oven<br>
+amen<br>
+words that precede and follow nine<br>
+dine<br>
+vine<br>
+mine<br>
+nile<br>
+nina<br>
+tine<br>
+pine<br>
+none<br>
+wine<br>
+line<br>
+sine<br>
+fine<br>
+nice<br><br>
+words that precede and follow sell<br>
+bell<br>
+self<br>
+nell<br>
+well<br>
+dell<br>
+cell<br>
+fell<br>
+seal<br>
+hell<br>
+yell<br>
+sill<br>
+tell<br><br>
+words that precede and follow stat<br>
+star<br>
+swat<br>
+slat<br>
+seat<br>
+stag<br>
+stab<br>
+skat<br>
+stan<br>
+stay<br>
+scat<br>
+spat<br><br>
+words that precede and follow what<br>
+whit<br>
+wham<br>
+whet<br>
+chat<br>
+that<br>
+
