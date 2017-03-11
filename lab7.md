@@ -13,5 +13,7 @@
 ![election levelplot](screenshot-area-2017-03-11-124335.png)<br><br>
 Below you can see which states Bush won by comparing Bush's points to Kerry's points.<br>
 ![states Bush won](screenshot-area-2017-03-11-171305.png)<br><br>
+The number of states Bush won can be found by using the length function.<br>
+![number of states](screenshot-area-2017-03-11-171421.png)<br><br>
 6. <br>
 7. <br>
