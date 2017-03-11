@@ -6,6 +6,7 @@
 ![inspect rules sorted](screenshot-area-2017-03-11-093609.png)<br><br>
 4.<br>
 ![graph rules](screenshot-area-2017-03-11-115451.png)<br><br>
+![graph rules parallel](screenshot-area-2017-03-11-115504.png)<br><br>
 5.<br>
 6.<br>
 7.<br>
