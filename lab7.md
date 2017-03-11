@@ -4,9 +4,12 @@
 ![apriori](screenshot-area-2017-03-10-133557.png)<br><br>
 ![inspect rules](screenshot-area-2017-03-11-092206.png)<br><br>
 ![inspect rules sorted](screenshot-area-2017-03-11-093609.png)<br><br>
-4.<br>
+4. <br>
 ![graph rules](screenshot-area-2017-03-11-115451.png)<br><br>
 ![graph rules parallel](screenshot-area-2017-03-11-115504.png)<br><br>
-5.<br>
-6.<br>
-7.<br>
+5. <br>
+![election data](screenshot-area-2017-03-11-124212.png)<br><br>
+![election parallel coordinates](screenshot-area-2017-03-11-124304.png)<br><br>
+![election levelplot](screenshot-area-2017-03-11-124335.png)<br><br>
+6. <br>
+7. <br>
