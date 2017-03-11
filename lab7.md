@@ -8,6 +8,7 @@
 ![graph rules](screenshot-area-2017-03-11-115451.png)<br><br>
 ![graph rules parallel](screenshot-area-2017-03-11-115504.png)<br><br>
 5. <br>
-![election data](screenshot-area-2017-03-11-124212.png)
+![election data](screenshot-area-2017-03-11-124212.png)<br><br>
+![election graph](screenshot-area-2017-03-11-124304.png)<br><br>
 6. <br>
 7. <br>
