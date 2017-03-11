@@ -11,5 +11,7 @@
 ![election data](screenshot-area-2017-03-11-124212.png)<br><br>
 ![election parallel coordinates](screenshot-area-2017-03-11-124304.png)<br><br>
 ![election levelplot](screenshot-area-2017-03-11-124335.png)<br><br>
+Below you can see which states Bush won by comparing Bush's points to Kerry's points.<br>
+![states Bush won](screenshot-area-2017-03-11-171305.png)<br><br>
 6. <br>
 7. <br>
