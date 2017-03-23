@@ -17,6 +17,7 @@ Below you can see which states Bush won by comparing Bush's points to Kerry's po
 The number of states Bush won can be found by using the length function.<br>
 ![number of states](screenshot-area-2017-03-11-171421.png)<br><br>
 Top movies data<br>
-![years histogram](screenshot-area-2017-03-21-154750.png)
+![describe](screenshot-area-2017-03-22-184109.png)<b><b>
+![years histogram](screenshot-area-2017-03-21-154750.png)<b><b>
 6. <br>
 7. <br>
