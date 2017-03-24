@@ -4,6 +4,7 @@
 ![apriori](screenshot-area-2017-03-10-133557.png)<br><br>
 ![inspect rules](screenshot-area-2017-03-11-092206.png)<br><br>
 ![inspect rules sorted](screenshot-area-2017-03-11-093609.png)<br><br>
+I was able to get rid of all of the redundant rules and cut down the number of rules by about 200.<br>
 4. <br>
 ![graph rules](screenshot-area-2017-03-11-115451.png)<br><br>
 ![graph rules parallel](screenshot-area-2017-03-11-115504.png)<br><br>
