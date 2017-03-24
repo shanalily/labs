@@ -19,5 +19,5 @@ The number of states Bush won can be found by using the length function.<br>
 Top movies data<br><br>
 ![describe](screenshot-area-2017-03-22-184109.png)<br><br>
 ![years histogram](screenshot-area-2017-03-21-154750.png)<br><br>
-6. <br>
+6. optional<br>
 7. <br>
