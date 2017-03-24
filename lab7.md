@@ -28,3 +28,4 @@ There are 121 sequels.<br>
 ![number of sequels](screenshot-area-2017-03-23-231203.png)<br><br>
 6. optional<br>
 7. <br>
+At the time of this lab, I had spent some time learning Qt that week by watching and reading what I could find online and trying it myself. I have done more since, which I have written about in my first blog post. Right now, I am trying to figure out how to change path names depending on the operating system, so that opening a file is easier, and figuring out zoom and dimensions of the page, as well as how to display the index that some pdfs have. [Here](https://rcos.io/projects/shanalily/deepreader/profile) is the Observatory page.
