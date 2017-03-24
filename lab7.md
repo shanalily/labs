@@ -25,8 +25,11 @@ There are 41 movies with the word man in the title.<br>
 ![number of men](screenshot-area-2017-03-23-230748.png)<br><br>
 At first I thought there were 121 sequels.<br>
 ![number of sequels](screenshot-area-2017-03-23-231203.png)<br><br>
-But then I remembered that I had to make sure the string was at the end of the word, in case there were numbers in the other parts of the title.<br>
-![number of sequals (actually)](screenshot-area-2017-03-24-083542.png)<br><br>
+But then I thought I had to make sure the string was at the end of the word, in case there were numbers in the other parts of the title.<br>
+![number of sequals II](screenshot-area-2017-03-24-083542.png)<br><br>
+Then I remembered that it could be in the middle of the word, I just had to make sure there was space around it or a colon after it. Also there should be a space before the number at the end of the movie title.<br>
+![nubmer of sequels III](screenshot-area-2017-03-24-093816.png)<br>
+This still is an underestimate, because some movies have titles that are harder to recognize as sequels, for instance the Harry Potter movies.<br><br>
 6. optional<br>
 7. <br>
 At the time of this lab, I had spent some time learning Qt that week by watching and reading what I could find online and trying it myself. I have done more since, which I have written about in my first blog post. Right now, I am trying to figure out how to change path names depending on the operating system, so that opening a file is easier, and figuring out zoom and dimensions of the page, as well as how to display the index that some pdfs have. [Here](https://rcos.io/projects/shanalily/deepreader/profile) is the Observatory page.
