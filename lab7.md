@@ -22,7 +22,9 @@ Top movies data<br><br>
 ![pie chart](screenshot-area-2017-03-22-212416.png)<br><br>
 There are 6 Star Wars movies in the data set.<br>
 ![# of star wars movies](screenshot-area-2017-03-23-230337.png)<br><br>
+There are 41 movies with the word man in the title.<br>
 ![number of men](screenshot-area-2017-03-23-230748.png)<br><br>
+There are 121 sequels.<br>
 ![number of sequels](screenshot-area-2017-03-23-231203.png)<br><br>
 6. optional<br>
 7. <br>
