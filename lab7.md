@@ -1,13 +1,11 @@
 1. I read chapter 9 and downloaded to titanic data to use.<br>
 2. I read the background on Association Rule mining and downloaded the two packages<br>
 3. <br>
-![apriori](screenshot-area-2017-03-10-133557.png)<br><br>
-![inspect rules](screenshot-area-2017-03-11-092206.png)<br><br>
-![inspect rules sorted](screenshot-area-2017-03-11-093609.png)<br><br>
+![apriori](screenshot-area-2017-03-24-000656.png)<br><br>
+![inspect rules sorted](screenshot-area-2017-03-24-000730.png)<br><br>
 I was able to get rid of all of the redundant rules and cut down the number of rules by about 200.<br>
 4. <br>
-![graph rules](screenshot-area-2017-03-11-115451.png)<br><br>
-![graph rules parallel](screenshot-area-2017-03-11-115504.png)<br><br>
+![graph rules](screenshot-area-2017-03-24-001836.png)<br><br>
 5. <br>
 Bush/Kerry election data<br><br>
 ![election data](screenshot-area-2017-03-11-124212.png)<br><br>
