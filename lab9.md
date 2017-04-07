@@ -1,11 +1,14 @@
-**Checkpoint 1**
+**Checkpoint 1**<br>
+I installed MongoDB.
 
-**Checkpoint 2**
+**Checkpoint 2**<br>
+I loaded data from definitions.json in the lab directory.
 
-**Checkpoint 3**
+**Checkpoint 3**<br>
+I adde the word "saturnalia" and I changed the definition of "Blech".
 
-**Checkpoint 4**
+**Checkpoint 4**<br>
 
-**Checkpoint 5**
+**Checkpoint 5**<br>
 
-**Checkpoint 6**
+**Checkpoint 6**<br>
