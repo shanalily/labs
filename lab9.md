@@ -11,7 +11,7 @@ I added the word "saturnalia" and I changed the definition of "Ack".
 I inserted collywobbles.
 
 **Checkpoint 5**<br>
-Push still not working.
+A random word is found, and a date inserted.
 
 **Checkpoint 6**<br>
 [Observatory page](https://rcos.io/projects/shanalily/deepreader/profile)<br>
