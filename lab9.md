@@ -5,7 +5,7 @@ I installed MongoDB.
 I loaded data from definitions.json in the lab directory.
 
 **Checkpoint 3**<br>
-I added the word "saturnalia" and I changed the definition of "Blech".
+I added the word "saturnalia" and I changed the definition of "Ack".
 
 **Checkpoint 4**<br>
 I inserted collywobbles.
